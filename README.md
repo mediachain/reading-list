@@ -13,3 +13,8 @@
 [whitepaper](https://ripple.com/files/ripple_consensus_whitepaper.pdf) [[mirror](https://www.hashdoc.com/documents/326901/the-ripple-protocol-consensus-algorithm)]
 ### Stellar
 [whitepaper](https://www.stellar.org/papers/stellar-consensus-protocol.pdf) [[mirror](https://www.hashdoc.com/documents/326902/the-stellar-consensus-protocol-a-federated-model-for-internet-level-consensus)]
+
+
+## Storage
+### Sia
+[whitepaper](https://sia.tech/assets/globals/sia.pdf)
