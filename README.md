@@ -9,3 +9,7 @@
 [informal overview](https://bitshares.org/technology/delegated-proof-of-stake-consensus/) | [bitshares DPoS overview](http://docs.bitshares.eu/bitshares/dpos.html) | [bitshares whitepaper](http://docs.bitshares.eu/_downloads/bitshares-general.pdf) (partially addressed in 5.4) | [steem whitepaper](https://steem.io/SteemWhitePaper.pdf)
 ### Simplified Byzantine Fault Tolerance (SBFT)
 *pending release by Chain*
+### Ripple
+[whitepaper](https://ripple.com/files/ripple_consensus_whitepaper.pdf) [[mirror](https://www.hashdoc.com/documents/326901/the-ripple-protocol-consensus-algorithm)]
+### Stellar
+[whitepaper](https://www.stellar.org/papers/stellar-consensus-protocol.pdf) [[mirror](https://www.hashdoc.com/documents/326902/the-stellar-consensus-protocol-a-federated-model-for-internet-level-consensus)]
